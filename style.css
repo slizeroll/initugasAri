@@ -1,0 +1,42 @@
+
+
+
+.banner {
+    background: linear-gradient(rgba(0, 0, 0, 1.0),rgba(0,0,0,0.5)), url(img/Home-Image.jpg) no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+}
+
+.banner .display-4 {
+    font-weight: 200;
+}
+
+.banner .display-4 span {
+    font-style: italic;
+    font-weight: 600;
+}
+
+.circle {
+    display: inline-block;
+    border-radius: 50%;
+    width: 120px;
+    margin: auto;
+    height: 120px;
+    color: #ffffff;
+    background-color: #494949;
+}
+
+.circle i {
+    position: relative;
+    top: 35px;
+}
+
+#contact {
+    background: linear-gradient(rgba(0, 0, 0, 1.0),rgba(0,0,0,0.5)), url(img/kereta2.webp) no-repeat center center;
+    background-size: cover;
+    padding-top: 3%;
+    padding-bottom: 7%;
+    color: #fff;
+}
